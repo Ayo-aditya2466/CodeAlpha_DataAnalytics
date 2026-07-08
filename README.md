@@ -66,7 +66,7 @@ CodeAlpha_DataAnalytics/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/CodeAlpha_DataAnalytics.git
+git clone https://github.com/Ayo-aditya2466/CodeAlpha_DataAnalytics.git
 cd CodeAlpha_DataAnalytics
 
 # 2. Install dependencies
